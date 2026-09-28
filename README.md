@@ -106,7 +106,7 @@ Yang terakhir pengguna memilih menu keluar untuk keluar dari menu utama Barbersh
 
 ============================================================================
 
-## **Penjelaan dan Contoh data pelanggan (inheritance & polymorphism)**
+## **Penjelasan dan Contoh data pelanggan (inheritance & polymorphism)**
 
 ### ***Inheritance***
 
@@ -117,7 +117,7 @@ Terdapat satu superclass abstract, Orang, yang diturunkan menjadi dua cabang, da
 - Barber adalah barber standar dengan kapasitas 5 antrean dan tanpa biaya tambahan.
 - BarberSenior meng-override kapasitasnya menjadi 7 antrean, tapi menambahkan biaya jasa Rp10.000.
 
-### ***Polumorphism***
+### ***Polymorphism***
 
 Diterapkan dalam dua bentuk:
 
